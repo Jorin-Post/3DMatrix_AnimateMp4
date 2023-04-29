@@ -1,7 +1,7 @@
 # 3DMatrix_AnimateMp4
 Covert a 3d matrix plot to mp4 or gif. Using the matplotlib animation class. With voxel collers.
 
-![Demo 3d animation](demo/demo.gif)
+![Demo 3d animation](Demo.gif)
 
 All collers that can be used:
 https://matplotlib.org/stable/gallery/color/named_colors.html
