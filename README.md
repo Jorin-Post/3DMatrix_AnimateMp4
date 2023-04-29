@@ -1,7 +1,7 @@
 # 3DMatrix_AnimateMp4
 Covert a 3d matrix to mp4 or gif. Using the matplotlib animation class.
 
-![Farmers Market Finder Demo](demo.gif)
+![Farmers Market Finder Demo](Demo.gif)
 
 All collers that can be used:
 https://matplotlib.org/stable/gallery/color/named_colors.html
